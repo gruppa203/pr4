@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Sklad_ZhikharevModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Materials">
+    <Key>
+      <PropertyRef Name="Material_ID" />
+    </Key>
+    <Property Name="Material_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Material_Name" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Material_Cost" Type="money" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Хранилище Sklad_ZhikharevModelContainer">
+    <EntitySet Name="Materials" EntityType="Self.Materials" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

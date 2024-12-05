@@ -1,0 +1,12 @@
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\bin\Debug\ClassLibraryDataBase.dll.config
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\bin\Debug\ClassLibraryDataBase.dll
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\bin\Debug\ClassLibraryDataBase.pdb
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\obj\Debug\ClassLibraryDataBase.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\obj\Debug\ClassLibraryDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\obj\Debug\ClassLib.492D239B.Up2Date
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\obj\Debug\ClassLibraryDataBase.dll
+C:\Users\Vlad\source\repos\FinalApi\ClassLibraryDataBase\obj\Debug\ClassLibraryDataBase.pdb

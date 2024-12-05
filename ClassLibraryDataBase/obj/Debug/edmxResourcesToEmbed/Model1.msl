@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Sklad_ZhikharevModelContainer" CdmEntityContainer="Sklad_ZhikharevEntities">
+    <EntitySetMapping Name="Materials">
+      <EntityTypeMapping TypeName="Sklad_ZhikharevModel.Materials">
+        <MappingFragment StoreEntitySet="Materials">
+          <ScalarProperty Name="Material_ID" ColumnName="Material_ID" />
+          <ScalarProperty Name="Material_Name" ColumnName="Material_Name" />
+          <ScalarProperty Name="Material_Cost" ColumnName="Material_Cost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
